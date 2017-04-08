@@ -6,3 +6,4 @@ Creating a new branch is quick & simple
 hehe
 xixi
 nici
+测试这个例子
